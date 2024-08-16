@@ -16,11 +16,44 @@
     color: #ffc107 !important;
 }
 
-body {
-    background-color: #f8f9fa;
+.body {
+    background-color: #181818;
     padding-top: 56px;
 }
 
 .container {
-    padding-top: 20px;
+    max-width: 1200px;
+    margin: auto;
+    padding: 20px;
+    
 }
+
+.form-group {
+    margin-bottom: 1.5rem;
+    color:#f8f9fa;
+}
+
+.form-control {
+    margin-bottom: 1.5rem;
+    padding: 10px;
+    color:#f8f9fa;
+}
+
+.form-label {
+    padding: 1.5rem;
+   
+}
+
+.btn-primary {
+    background-color: #ff7b00;
+    border-color: #ff7b00;
+}
+
+.my-4 {
+    color: #ffff
+}
+
+.submit {
+    color: #fff
+}
+

@@ -4,8 +4,9 @@ import NavigationBar from './components/navbar';
 import Dashboard from './pages/Dashboard';
 import Projects from './pages/Projects';
 import Tasks from './pages/Tasks';
-import Login from './pages/Login'
-import './App.css'
+import Login from './pages/Login';
+import './App.css';
+
 
 function App() {
     return (
